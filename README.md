@@ -7,6 +7,9 @@ the management of user accounts, including authentication, authorization, and ro
 This project utilizes Spring Boot for the backend and React for the front end
 and implements JWT for secure authentication.
 
+For the backend implementation, check out the
+[User Management Portal Front End](https://github.com/sujan66root/user-management-frontend) repository.
+
 ## Features
 - User registration and login
 - Role-based access control (Admin, User)
